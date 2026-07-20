@@ -1,8 +1,4 @@
-# baanderson40 Dalamud Plugins
-
-Custom Dalamud plugin repository for plugins created by `baanderson40`.
-
-Repository URL:
+# Repository URL:
 
 `https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json`
 
