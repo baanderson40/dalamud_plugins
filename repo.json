@@ -32,7 +32,7 @@
     ],
     "InternalName": "AOCCH",
     "RepoUrl": "https://github.com/baanderson40/Another_Occult_Crescent_Helper",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.1.0.0",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
