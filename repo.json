@@ -37,9 +37,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/latest/download/AOCCH.zip",
-    "DownloadLinkUpdate": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/latest/download/AOCCH.zip",
-    "DownloadLinkTesting": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/latest/download/AOCCH.zip",
+    "DownloadLinkInstall": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/0.1.0.0/latest.zip",
     "SupportsProfiles": false
   }
 ]
