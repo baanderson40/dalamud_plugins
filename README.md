@@ -1,6 +1,6 @@
 # Repository URL:
 
-`https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json`
+`https://raw.githubusercontent.com/baanderson40/dalamud_plugins/main/repo.json`
 
 ## Plugins
 
