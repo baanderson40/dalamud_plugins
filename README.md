@@ -2,6 +2,9 @@
 
 `https://raw.githubusercontent.com/baanderson40/dalamud_plugins/main/repo.json`
 
+## Discord
+Join the [Discord community](https://discord.gg/4zDjRUsd8x) for support, updates, and discussion.
+
 ## Plugins
 
 ### [Another Occult Crescent Helper](https://github.com/baanderson40/Another_Occult_Crescent_Helper)
