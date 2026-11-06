@@ -10,6 +10,16 @@ Reduces resource pressure across multiple FFXIV clients:
 - Controls background rendering with combat and transition bypasses.
 - Saves window placement across monitors.
 
+### [Debug Kit](https://github.com/baanderson40/Debug-Kit)
+
+Provides standalone, read-only diagnostics for FFXIV:
+
+- Big Dump of reviewed player, client, world, job, and target-slot fields.
+- Condition and player-status snapshots, plus installed-plugin inventory.
+- Typed job, NPC, and territory-name lookups.
+- Manual, bounded movement-speed, target-distance, and entity-name observers.
+- Structured reports and local export; no game-control actions.
+
 ### [Another Occult Crescent Helper](https://github.com/baanderson40/Another_Occult_Crescent_Helper)
 
 Automates and monitors activities in Occult Crescent:
